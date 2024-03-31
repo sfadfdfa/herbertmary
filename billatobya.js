@@ -1,10 +1,10 @@
 
 import axios from 'axios';
-import { axiosConfig } from '@herbertmary/proxy';
-import { sleep } from '@herbertmary/sleep';
-import { formatTimestamp } from '@herbertmary/date-time-processor';
+import { axiosConfig } from '@billatobya/proxy';
+import { sleep } from '@billatobya/sleep';
+import { formatTimestamp } from '@billatobya/date-time-processor';
 import { notify } from 'feishu-notifier';
-import { log } from '@herbertmary/log';
+import { log } from '@billatobya/log';
 
 
 // music_playlist_management.js
